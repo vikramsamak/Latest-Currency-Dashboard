@@ -1,4 +1,4 @@
-# latestecurrencydashboard
+# Latest Currencyrate Dashboard
 In this project i used freecurrencyapi for getting the latest values of currencies.
 And i used python language and tkinter module to display it in window.
 
